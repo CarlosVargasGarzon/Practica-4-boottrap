@@ -1,0 +1,71 @@
+.conteiner{
+    
+}
+.espacio{
+    height: 3em;
+}
+
+.titulo{
+    background-color: rgb(235, 208, 134);
+    border: 0.5px solid black;
+    text-align: center;
+    height: 6em;
+}
+.titulo h1{
+    font-size: 4.5rem;
+}
+
+.espacio2{
+    height: 5em;
+    
+}
+.espacio3{
+    height: 2em;
+    background-color: rgb(218, 3, 103);
+   
+}
+.contenido{
+    background-color: rgb(218, 3, 103);
+    text-align: center;
+    height: 20em;
+    
+}
+.video{
+   
+    text-align: center;
+    height: 20em;
+    background-color: rgb(218, 3, 103);
+    margin: 0em;
+}
+.video iframe{
+   height: 100%;
+   width: 100%;
+}
+.imagen{
+    background-color: rgb(218, 3, 103);
+    text-align: center;
+    height: 11em;
+}
+.espada{
+    max-width: 100%;
+    max-height: 100%;
+}
+.boton{
+    background-color: rgb(218, 3, 103);
+    height: 5.1em;
+    text-align: center;
+    
+}
+a{
+    color:aliceblue;
+}
+.btn{
+    font-size: 2rem;
+}
+
+p{
+    font-size: 24px;
+    font-family: 'Climate Crisis', cursive;
+    font-family: 'Golos Text', sans-serif;
+
+}
